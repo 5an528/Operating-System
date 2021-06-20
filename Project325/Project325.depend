@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1574130554 source:h:\8th semester cse325\final\prj\bitmap.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"bitmap.h"
+
+1574130554 h:\8th semester cse325\final\prj\bitmap.h
+
+1576350243 source:h:\8th semester cse325\final\prj\m5andel.c
+	"bitmap.h"
+	<getopt.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<pthread.h>
+	<errno.h>
+	<string.h>
+	<time.h>
+
